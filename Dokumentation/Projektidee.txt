@@ -1,0 +1,14 @@
+Projektidee Christopher Giese 2114039 Terminkalender
+
+Das Programm stellt dem Nutzer einen Kalender zur Verfügung, in dem er Termine eintragen kann.
+
+Nutzer können:
+	- Sich anmelden
+	- Verschiedene Monate im Kalender betrachten
+	- Termine an einzelnen oder aufeinander folgenden Tagen eintragen
+	- Termine mit Zeiträumen versehen
+	- Termine mit Wichtigkeit kennzeichnen
+	- Tage mit mehreren Terminen betrachten
+	
+
+Ich habe momentan noch keinen Partner für das Projekt.
