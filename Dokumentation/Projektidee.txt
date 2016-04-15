@@ -1,5 +1,5 @@
-Projektidee Christopher Giese 2114039 Terminkalender
-
+Projektidee Christopher Giese 2114039
+-- Alte Idee: Terminkalender --
 Das Programm stellt dem Nutzer einen Kalender zur Verfügung, in dem er Termine eintragen kann.
 
 Nutzer können:
@@ -10,5 +10,19 @@ Nutzer können:
 	- Termine mit Wichtigkeit kennzeichnen
 	- Tage mit mehreren Terminen betrachten
 	
+-- Neue Idee: Brettspiel Mühle --
+Da ein Terminkalender zu langweilig ist, ändere ich die Idee.
+
+Das Programm ist eine Umsetzung des Brettspiels Mühle.
+
+Hauptelemente:
+Spieler können öffentliche oder private Spiele erstellen und beitreten.
+Spieler können ihren Anzeigenamen eingeben.
+Nach dem Spiel kann die Statistik mit Spieldaten angesehen werden.
+
+Zusätzliche Elemente:
+Spieler können sich anmelden.
+Statistiken vergangener Spiele können angesehen werden.
+Replays vergangener Spiele können angesehen werden.
 
 Ich habe momentan noch keinen Partner für das Projekt.
