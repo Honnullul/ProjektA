@@ -29,6 +29,25 @@ Replays vergangener Spiele können angesehen werden.
 
 Ich habe momentan noch keinen Partner für das Projekt.
 
+=== Produktbeschreibung Giants, Honnullul, 25.4.2016
+
+Ziel des Spiels ist der Sieg durch Punkte. Diese werden hauptsächlich durch Transport und Bau von Moais(Steinstatuen der Osterinsel) erwirtschaftet.
+Zu Beginn erhält jeder Spieler die Startressourcen:
+2 von max. 6 Markern, 1 von max. 6 Arbeitern, 1 Medizinmann, 1 Häuptling, 7-5 Bausockel bei 3-5 Spielern.
+Zusätzliche Ressourcen: 30 Rongo-Steintafelhälften (kurz Rongo), 27 Baumstämme, 14* Kopfschmuck, Moais: 17*Gr.1, 12*Gr.2, 6*Gr.3
+Jede Spielrunde ist in mehrere Phasen eingeteilt:
+
+1 – Moais ermitteln
+2 – Versteigerung im Moai-Steinbruch
+3 – Figuren aufstellen und besondere Aktionen ausführen
+4 – Transport sowie Moai- und Kopfschmuck-Markierung
+5 – Ende der Runde, Startspielerwechsel
+
+Dies wird solange wiederholt, bis ein Spieler nach Phase 4 alle Bausockel mit Moais besetzt hat.
+Die Punktzahl ergibt sich aus Hilfspunkten und Wert der Moais*Entfernung + Kopfschmuck.
+
+Für eine ausführliche Beschreibung mit Beispielen siehe Giants_Anleitung.pdf
+
 === Feedback Alpers, 2016-04-19 ===
 
 Das mit dem fehlenden Partner ist kein Problem. In diesem Semester läuft das Projekt anders ab als im letzten Semester und darunter fällt auch das Thema Teamarbeit.
