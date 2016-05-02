@@ -1,9 +1,8 @@
-Stand 27.4.2016
+Stand 2.5.2016
 Von den 5 nachfolgenden Repos für Aufgabe 4:
 idleTask
 iKalypto
 IsThisMyRealName
-janman22
 Weitere Repos, auf die ich Zugriff haben sollte:
 G4brielle
 harmidoc2
